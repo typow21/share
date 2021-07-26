@@ -1,0 +1,1 @@
+../../../FirebaseFirestore/FirebaseCore/Sources/Private/FIRDependency 2.h

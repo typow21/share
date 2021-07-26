@@ -1,0 +1,1 @@
+../../../GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREndpoints 2.h

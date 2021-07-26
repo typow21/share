@@ -1,0 +1,1 @@
+../../../FirebaseCoreDiagnostics/Interop/CoreDiagnostics/Public/FIRCoreDiagnosticsInterop 2.h
